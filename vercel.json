@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/societies",
+      "destination": "/societies.html"
+    },
+    {
+      "source": "/business",
+      "destination": "/business.html"
+    }
+  ]
+}
